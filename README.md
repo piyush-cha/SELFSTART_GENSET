@@ -6,6 +6,12 @@ The "Self-Start Genset" project is like a super-smart generator. It uses fancy t
 ## Author
 
 - [@piyush_ch](https://github.com/piyush-cha)
+- 
+- [@siddharth_parihar](https://github.com/Hackme987)
+- 
+- [@kunnal_panche](https://github.com/Kunalpanche)
+- 
+- [@hitesh_mankar]( )
 
 
 ## Contributing
